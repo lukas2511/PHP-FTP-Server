@@ -1,0 +1,9 @@
+Hier findet ihr meinen kleinen Test einen FTP-Server in PHP zu schreiben..
+Es ist bei weitem nicht perfekt und sollte wirklich nur ein kleiner Test sein, allein schon auf Grund der Performance und Sicherheit würde ich nicht empfehlen einen Server dieser Art in Betrieb zu nehmen.
+
+Die client.php veröffentliche ich unter GPL v3 (siehe LICENSE datei).
+
+Die run.php ist Code den ich in den Kommentaren auf php.net gefunden habe,
+weiß aber leider nicht mehr genau woher und nach einiger Suche hab ich den
+gleichen Code in vielen Projekten mit unterschiedlichen GPL versionen gesehen,
+daher kann ich keine Originalquelle angeben.
